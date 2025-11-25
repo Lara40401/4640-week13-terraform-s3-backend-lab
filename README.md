@@ -9,4 +9,4 @@ See lab instructions on D2L.
 3. Is the lock file always in the bucket after it is created?
 - No,the lock file is temporary and it will disappear once the Terraform operation finishes.
 
-("Screenshot 2025-11-25 143406.png")
+(./"Screenshot 2025-11-25 143406.png")
