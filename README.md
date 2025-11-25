@@ -9,5 +9,6 @@ See lab instructions on D2L.
 3. Is the lock file always in the bucket after it is created?
 - No,the lock file is temporary and it will disappear once the Terraform operation finishes.
 
-(./Screenshot1.png)
-(./Screenshot2.png)
+
+![alt text](Screenshot1.png)
+![alt text](Screenshot2.png)
